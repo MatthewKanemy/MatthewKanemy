@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋 I'm Matthew Kanemy</h1>
 <h3 align="center">A junior fullstack developer :D</h3>
 
-- 👨‍💻 All of my projects are available at [https://mkanemy.github.io/home/](https://mkanemy.github.io/home/)
+- 👨‍💻 All of my projects are available at [https://mkanemy.github.io/home](https://mkanemy.github.io/home)
 
 - 📫 How to reach me **mkanemy@uwaterloo.ca**
 
